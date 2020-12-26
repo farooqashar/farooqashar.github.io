@@ -6,8 +6,19 @@
 
   a:hover {
     color:red;
-    text-decoration: none;
+    text-decoration: underline;
   }
+
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:active {
+  color: yellow;
+  text-decoration: underline;
+}
 
   body {
     background-color: beige;
