@@ -20,13 +20,6 @@ a:active {
   text-decoration: underline;
 }
 
-p.sticky {
-  position: -webkit-sticky;
-  position: sticky;
-  top: 0;
-  padding: 5px;
-}
-
 div:hover {
   background-color: blue;
 }
