@@ -30,6 +30,14 @@ p.sticky {
 div:hover {
   background-color: blue;
 }
+
+img {
+  opacity: 0.9;
+}
+
+img:hover {
+  opacity: 1.0;
+}
   body {
     background-color: beige;
     color:black;
