@@ -20,6 +20,12 @@ a:active {
   text-decoration: underline;
 }
 
+.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  padding: 5px;
+}
   body {
     background-color: beige;
     color:black;
