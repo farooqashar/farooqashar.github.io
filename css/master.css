@@ -26,6 +26,10 @@ p.sticky {
   top: 0;
   padding: 5px;
 }
+
+div:hover {
+  background-color: blue;
+}
   body {
     background-color: beige;
     color:black;
