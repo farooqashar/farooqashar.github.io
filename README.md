@@ -1,4 +1,8 @@
-# farooqashar.github.io
-Personal website
+# Personal Website
 
-https://farooqashar.github.io
+This(https://farooqashar.github.io) is an older version my personal website.
+
+
+
+
+My updated website is hosted on Vercel at https://ashar.vercel.app/.
